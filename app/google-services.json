@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "230416940538",
+    "firebase_url": "https://elmostaml.firebaseio.com",
+    "project_id": "elmostaml",
+    "storage_bucket": "elmostaml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230416940538:android:0f351a0ba963b8dbffb843",
+        "android_client_info": {
+          "package_name": "com.mbn.olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230416940538-qo2c7fq5tcliib8h1dgelo7mso0s5a6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbn.olx",
+            "certificate_hash": "af5afede7062cf6dc5ee5e771daecdba0d726dde"
+          }
+        },
+        {
+          "client_id": "230416940538-cplere7islcg6ei09bqoci42s1i20cf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbn.olx",
+            "certificate_hash": "58c2a8bf074ac5adc0555e753cc91e78c65ebaa4"
+          }
+        },
+        {
+          "client_id": "230416940538-nh9jjt69vbbj4ahsiaj8vr86h484ut1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg98iVanXpk69u3gUlaVx8HEtGWDPZevY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230416940538-nh9jjt69vbbj4ahsiaj8vr86h484ut1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
